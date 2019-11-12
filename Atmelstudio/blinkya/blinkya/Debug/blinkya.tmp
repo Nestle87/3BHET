@@ -1,0 +1,27 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATmega328P"</DEVICE>
+ <WORKING_DIR>C:\Users\reinha170164\Desktop\Git\Atmelstudio\blinkya\blinkya\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc</DIR>
+  <DIR>C:\Program Files (x86)\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\reinha170164\Desktop\Git\Atmelstudio\blinkya\blinkya\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files (x86)\Atmel\Studio\7.0\Packs\atmel\ATmega_DFP\1.2.209\avrasm\inc\m328pdef.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\reinha170164\Desktop\Git\Atmelstudio\blinkya\blinkya\Debug\blinkya.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>blinkya.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>blinkya.map</FILE>
+  <FILE>blinkya.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <start><FILE>C:\Users\reinha170164\Desktop\Git\Atmelstudio\blinkya\blinkya\main.asm</FILE><LINE>12</LINE></start>
+ </LABELS>
+</ASSEMBLER_INFO>
